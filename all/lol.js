@@ -1,8 +1,8 @@
 /* 
 
-   Contact: https://wa.me/2347036214381
-   Telegram: https://t.me/Ednut_x    
-   Developer : https://wa.me/2348102487241
+   Contact: https://wa.me/27751014718
+   Telegram: https://t.me/cadillaccylee    
+   Developer : https://wa.me/27751014718
   
 */
 
@@ -304,6 +304,7 @@ async function remini(kyoko, tysa) {
     });
   });
 }
+
 
 
 module.exports = { pinterest, pinterest2, remini, mediafire, tiktokDl }
