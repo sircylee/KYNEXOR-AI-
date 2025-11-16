@@ -1,12 +1,12 @@
 {
-  "name": "Patron-Md",
+  "name": "KYNEXOR-AI",
   "version": "3.1.0",
   "description": "Next generation Whatsapp bot",
   "main": "main.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name PATRON-MD"
   },
-  "author": "PATRON",
+  "author": "KYNEXOR",
   "engines": {
     "node": "20.x"
   },
