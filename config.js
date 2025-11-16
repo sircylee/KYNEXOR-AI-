@@ -6,18 +6,18 @@ require('dotenv').config();
 //================= { SETTINGS } =================\\
 global.prefix = (process.env.PREFIX || ".").trim().split(/\s+/);
 // your desired prefix symbol only
-global.owner = process.env.OWNER_NUMBER || "2348133729715"; // owner number , for multiple number
-global.sudo = process.env.SUDO  || "";
-global.ownername = process.env.OWNER_NAME || "Patron TechX"; //set bot owner name here 
-global.botname = process.env.BOT_NAME || "ᴘᴀᴛʀᴏɴ-ᴍᴅ"
-global.author = process.env.AUTHOR  || "Patron TechX";
-global.packname = process.env.PACK_NAME  || "© ᴘᴀᴛʀᴏɴ ᴍᴅ ²⁵";
+global.owner = process.env.OWNER_NUMBER || "27751014718"; // owner number , for multiple number
+global.sudo = process.env.SUDO  || "27751014718";
+global.ownername = process.env.OWNER_NAME || "Cadillac Cylee"; //set bot owner name here 
+global.botname = process.env.BOT_NAME || "🩵👸 *KYNEXOR-AI* 👸🩵"
+global.author = process.env.AUTHOR  || "";
+global.packname = process.env.PACK_NAME  || "KYNEXOR 👸🩵";
 global.session = process.env.SESSION_ID || ""
-global.timezone = process.env.TIME_ZONE || "Africa/Lagos";
-global.simbol = process.env.SYMBOL || '🚹';
+global.timezone = process.env.TIME_ZONE || "Africa/Johannesburg";
+global.simbol = process.env.SYMBOL || '👸';
 global.thumb = process.env.THUMB || "https://files.catbox.moe/e71nan.png"
-global.footer = process.env.FOOTER || '';
-global.warn = process.env.WARN || '4'
+global.footer = process.env.FOOTER || '*_this was developed by KynexorTechnologies, and founded by Cadillac Cylee_*';
+global.warn = process.env.WARN || '3'
 global.menutype = process.env.MENU_TYPE || ''
 global.scan = 'https://patron-md.vercel.app'
 
