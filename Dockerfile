@@ -1,7 +1,7 @@
 FROM node:lts-buster
 
 # Clone the correct repository
-RUN git clone https://github.com/Itzpatron/PATRON-MD3.git /root/Patron
+RUN git clone https://github.com/sircylee/KYNEXOR-AI-.git /root/Patron
 
 # Set working directory
 WORKDIR /root/Patron
@@ -16,4 +16,5 @@ COPY . .
 EXPOSE 9090
 
 # Start the app
+
 CMD ["npm", "start"]
